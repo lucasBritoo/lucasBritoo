@@ -2,7 +2,7 @@
 - 🎓 Atualmente estou cursando Engenharia da Computação no IFSP;
 - 👨‍💻 Realizo estágio em DevOps, atuando na automação de CI/CD;
 - 💻 Estou estudando sobre linux embarcado utilizando Raspberry Pi 3;
-- 🌐 Estudando C/C++, Qt e Microserviços;
+- 🌐 Estudando C/C++, Qt e Microsserviços;
 
 
 <div align="center">
