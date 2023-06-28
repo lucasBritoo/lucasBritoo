@@ -1,8 +1,9 @@
 ## Olá!! Eu sou o Lucas Brito
 - 🎓 Atualmente estou cursando Engenharia da Computação no IFSP;
-- 👨‍💻 Realizo estágio em DevOps, atuando na automação de CI/CD;
-- 💻 Estou estudando sobre linux embarcado utilizando Raspberry Pi 3;
-- 🌐 Estudando C/C++, Qt e Microsserviços;
+- 👨‍💻 Trabalho como Devops Engineer;
+- :cloud: Sólidos conhecimentos em pipelines CI/CD, automação, Iaas, build systems e monitoramento (Prometheus/Grafana);
+- 💻 Estou estudando sobre linux embarcado (Yocto Project e BuildRoot) e Qt para meu projeto de TCC;
+
 
 
 <div align="center">
