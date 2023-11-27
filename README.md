@@ -3,14 +3,6 @@
 - 👨‍💻 Trabalho como Devops Engineer;
 - :cloud: Sólidos conhecimentos em pipelines CI/CD, automação, Iaas, build systems e monitoramento (Prometheus/Grafana);
 - 💻 Estou estudando sobre linux embarcado (Yocto Project e BuildRoot) e Qt para meu projeto de TCC;
-
-
-
-<div align="center">
-  <a href="https://github.com/lucasBritoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasBritoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasBritoo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
