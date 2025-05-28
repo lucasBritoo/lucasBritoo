@@ -1,8 +1,7 @@
 ## Olá!! Eu sou o Lucas Brito
-- 🎓 Atualmente estou cursando Engenharia da Computação no IFSP;
+- 🎓 Engenheiro da Computação pelo IFSP;
 - 👨‍💻 Trabalho como Devops Engineer;
-- :cloud: Sólidos conhecimentos em pipelines CI/CD, automação, Iaas, build systems e monitoramento (Prometheus/Grafana);
-- 💻 Estou estudando sobre linux embarcado (Yocto Project e BuildRoot) e Qt para meu projeto de TCC;
+- :cloud: Sólidos conhecimentos em pipelines CI/CD, automação, Iaas, build systems, monitoramento e observabilidade;
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
